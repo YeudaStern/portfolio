@@ -2,7 +2,7 @@
 import React from "react";
 import dynamic from "next/dynamic";
 
-const AnimatedNumbers = dynamic(
+const AnimatedNumbers: any = dynamic(
     () => {
         return import("react-animated-numbers");
     },
@@ -47,7 +47,7 @@ const AchievementsSection = () => {
                                     animateToNumber={parseInt(achievement.value)}
                                     locale="en-US"
                                     className="text-white text-4xl font-bold"
-                                    configs={(_, index) => {
+                                    configs={(_: any, index: any) => {
                                         return {
                                             mass: 1,
                                             friction: 100,
