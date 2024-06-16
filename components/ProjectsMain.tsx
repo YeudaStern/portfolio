@@ -8,6 +8,15 @@ import { motion, useInView } from "framer-motion";
 const projectsData = [
   {
     id: 1,
+    title: "Catering shop",
+    description: "A catering store with a separate site for admin and the store itself, the site admin manages all orders including adding items, updating products and more. On the store's website, you can add products to the cart and buy with a functioning checkout system",
+    image: "/pnini.png",
+    tag: ["All", "Web", "Active"],
+    gitUrl: "https://github.com/YeudaStern/pnini_admin",
+    previewUrl: "https://pnini-store.vercel.app/",
+  },
+  {
+    id: 1,
     title: "Trello app",
     description: "Trello is a collaboration tool that utilizes boards, lists, and cards to help individuals and teams organize and prioritize their projects and tasks visually",
     image: "/trello.png",
