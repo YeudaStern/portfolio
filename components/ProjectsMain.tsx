@@ -16,7 +16,7 @@ const projectsData = [
     previewUrl: "https://pnini-store.vercel.app/",
   },
   {
-    id: 1,
+    id: 2,
     title: "Trello app",
     description: "Trello is a collaboration tool that utilizes boards, lists, and cards to help individuals and teams organize and prioritize their projects and tasks visually",
     image: "/trello.png",
@@ -25,7 +25,7 @@ const projectsData = [
     previewUrl: "https://trello-app-sage.vercel.app/",
   },
   {
-    id: 2,
+    id: 3,
     title: "Home Board",
     description: "My construction project management system is a robust and user-friendly platform tailored to meet the unique needs of constructors.",
     image: "/dashb.png",
@@ -34,7 +34,7 @@ const projectsData = [
     previewUrl: "https://home-board-site.netlify.app/",
   },
   {
-    id: 3,
+    id: 4,
     title: "Massenger",
     description: "My real-time messenger application is a cutting-edge communication platform that facilitates instant and seamless interaction between users across various devices.",
     image: "/message.png",
@@ -43,7 +43,7 @@ const projectsData = [
     previewUrl: "https://messenger-real-time-two.vercel.app/",
   },
   {
-    id: 4,
+    id: 5,
     title: "AI companion",
     description: "This is a project where you can create avatars and chat with them and ask questions on any topic you choose",
     image: "/copanion.png",
@@ -52,7 +52,7 @@ const projectsData = [
     previewUrl: "https://ai-companion-inky.vercel.app/",
   },
   {
-    id: 5,
+    id: 6,
     title: "Evenly",
     description: "This project is dedicated to developing a sophisticated event management system that ensures even distribution and optimal scheduling of events",
     image: "/evenly.png",
@@ -61,7 +61,7 @@ const projectsData = [
     previewUrl: "https://evently-latform.vercel.app/",
   },
   {
-    id: 6,
+    id: 7,
     title: "Ai generator",
     description: "In this Project you can generate an images, music, code, and make a conservation with ChatGPT and more AI models",
     image: "ai.png",
